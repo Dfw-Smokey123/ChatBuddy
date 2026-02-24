@@ -41,4 +41,5 @@ env/
 .env.local
 
 # Streamlit
-.streamlit/
+.streamlit/secrets.toml
+.streamlit/__pycache__/
